@@ -1,0 +1,57 @@
+
+@media (min-width: 00px) and (max-width: 500px){
+    [class*="col-"]{
+        width: 100%
+    }
+    .first-p{
+      font-weight: 500;
+      font-size: 60px;
+    }
+
+    .second-p{
+      font-size: 30px;
+    }
+
+    .menu{
+      display: none;
+    }
+
+    header h3{
+      margin-left: 2%;
+    }
+
+    .smallMenu{
+      display: inline-block;
+    }
+
+    .paragraph{
+      padding: 10%;
+    }
+
+    .paragraph h3{
+      font-size: 45px;
+      font-weight: 500;
+      margin-bottom: 5%;
+    }
+
+    .button1{
+      font-size: 20px;
+      margin-top: 20px;
+      padding: 4%;
+    }
+
+    .contact{
+      padding: 10%
+    }
+
+    .contact h3{
+      font-size: 45px;
+      font-weight: 500;
+      margin-bottom: 5%;
+    }
+
+    .find button{
+      font-size: 18px;
+      padding: 3%;
+    }
+}
